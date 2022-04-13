@@ -1,4 +1,5 @@
 # pizza-interface-typescript
+Putting into practice interface knowledge of the TypeScript language and extending them to another interface.
 
 ## To run:
 1. Clone the repository
